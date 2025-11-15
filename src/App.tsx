@@ -103,7 +103,7 @@ function App() {
 
          {
       id: 12,
-      name: '旺财28',
+      name: '旺财28999',
       description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/68b3af7e58cb8da5c8655b00.png',
       appUrl: 'https://wlkyiy.paradisemall.net/app/register.php?site_id=1012&topId=3926701'
