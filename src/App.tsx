@@ -150,7 +150,13 @@ function App() {
       iconUrl: 'https://pic1.imgdb.cn/item/68692e6658cb8da5c89176f9.jpg',
       appUrl: 'https://156.234.70.2:61106/#/link?allwin=9437468'
     },
-      
+               {
+      id: 18,
+      name: 'NG28',
+      description: '首存100+100',
+      iconUrl: 'https://pic1.imgdb.cn/item/689dd5ec58cb8da5c8251893.jpg',
+      appUrl: 'https://38.181.23.18:60004/#/link?allwin=22198286'
+    }, 
   ]);
 
   const [imageBoxes] = useState<ImageBoxItem[]>([
