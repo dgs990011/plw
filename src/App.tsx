@@ -30,7 +30,7 @@ function App() {
     },
     {
       id: 2,
-      name: 'top1体育',
+      name: 'top1 体育',
       description: '(新台大水)',
       iconUrl: 'https://pic1.imgdb.cn/item/686c718458cb8da5c895dcf1.jpg',
       appUrl: 'https://bakmry.gziasti.com/app/register.php?site_id=1051&topId=457911'
