@@ -31,14 +31,14 @@ function App() {
     {
       id: 2,
       name: 'top1体育',
-      description: '(新台大水.)',
+      description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/686c718458cb8da5c895dcf1.jpg',
       appUrl: 'https://bakmry.gziasti.com/app/register.php?site_id=1051&topId=457911'
     },
          {
       id: 3,
       name: '保时捷国际',
-      description: '（新台大水）',
+      description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/68dbfe46c5157e1a884b253c.jpg',
       appUrl: 'https://bsjh5.agrleo.com/app/register.php?site_id=134523275&topId=82386'
     },
@@ -46,7 +46,7 @@ function App() {
          {
       id: 4,
       name: '东升国际',
-      description: '首存100+100',
+      description: '十年老台',
       iconUrl: 'https://pic1.imgdb.cn/item/68692e6758cb8da5c89176fe.jpg',
       appUrl: 'https://tz.wx-zxivoq2.com/app/register.php?site_id=2173&topId=1090266'
     },
@@ -125,7 +125,7 @@ function App() {
      {
       id: 15,
       name: '多多28',
-      description: '十年老台',
+      description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/686f644658cb8da5c899de0b.png',
       appUrl: 'https://wlkyiy.paradisemall.net/app/register.php?site_id=1021&topId=5519693'
     },
@@ -135,13 +135,6 @@ function App() {
       description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/6911f7f73203f7be00ed9d46.jpg',
       appUrl: 'https://tz.wx-gujdtq3.com/app/register.php?site_id=2228&topId=1661558'
-    },
-         {
-      id: 17,
-      name: '豪门国际',
-      description: '首存100+100',
-      iconUrl: 'https://pic1.imgdb.cn/item/68692e6558cb8da5c89176f6.webp',
-      appUrl: 'https://nvjmce.hfjcl.com/app/register.php?site_id=1008&topId=2610410'
     },
       {
       id: 18,
@@ -156,6 +149,13 @@ function App() {
       description: '首存100+100',
       iconUrl: 'https://pic1.imgdb.cn/item/689dd5ec58cb8da5c8251893.jpg',
       appUrl: 'https://38.181.23.18:60004/#/link?allwin=22198286'
+    },
+                   {
+      id: 20,
+      name: '星耀国际',
+      description: '优先注册领取百万红包雨（12月8号正式上线）',
+      iconUrl: 'https://pic1.imgdb.cn/item/69327e9bd1e741a32bf19523.jpg',
+      appUrl: 'https://gedxs.hcjwj.com/app/register.php?site_id=1057&topId=22066'
     },
   ]);
 
