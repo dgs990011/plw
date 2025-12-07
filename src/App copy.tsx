@@ -136,6 +136,13 @@ function App() {
       iconUrl: 'https://pic1.imgdb.cn/item/6911f7f73203f7be00ed9d46.jpg',
       appUrl: 'https://tz.wx-gujdtq3.com/app/register.php?site_id=2228&topId=1661558'
     },
+       {
+      id: 17,
+      name: 'C7娱乐 ',
+      description: '首存100+100',
+      iconUrl: 'https://pic1.imgdb.cn/item/69355ead3cf558499f245c9e.jpg',
+      appUrl: 'https://103.39.18.211:7788/#/link?allwin=0RcGUSI3XYLQ0lhXzzQuiw%3D%3D'
+    }, 
                 {
       id: 18,
       name: 'NG28',
