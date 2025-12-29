@@ -159,7 +159,7 @@ function App() {
       id: 20,
       name: '君临国际 ',
       description: '官方满点招商',
-      iconUrl: 'https://pic1.imgdb.cn/item/6937c17f00233646958cd102.jpg',
+      iconUrl: 'https://pic1.imgdb.cn/item/695248a74b4fb88febf26626.jpg',
       appUrl: 'https://tfajn.hcjwj.com/app/register.php?site_id=1058&topId=26442&selfPlanId=1692'
     },
   ]);
