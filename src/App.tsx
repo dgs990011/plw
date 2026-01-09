@@ -172,7 +172,7 @@ function App() {
     },
     {
       id: 2,
-      imageUrl: 'https://pic1.imgdb.cn/item/6961024814866864fecd3bdf.jpg',
+      imageUrl: 'https://i.postimg.cc/m2jgt6GV/wang-wang-ke-fu.jpg',
       linkUrl: 'https://www.wangwangcn.com/'
     },
     {
