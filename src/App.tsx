@@ -172,7 +172,7 @@ function App() {
     },
     {
       id: 2,
-      imageUrl: 'https://pic1.imgdb.cn/item/694bec38b4105c208ac11392.webp',
+      imageUrl: 'https://pic1.imgdb.cn/item/6961024814866864fecd3bdf.jpg',
       linkUrl: 'https://www.wangwangcn.com/'
     },
     {
